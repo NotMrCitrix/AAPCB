@@ -1,5 +1,5 @@
 $hostsPath = "C:\Windows\System32\drivers\etc\hosts"
-$configPath = "C:\Users\citrix\Documents\hosts\config.txt"
+$configPath = "enter yoyur config.txt location"
 
 # Read the config file
 $config = Get-Content -Path $configPath | ConvertFrom-StringData
