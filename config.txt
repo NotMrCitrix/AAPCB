@@ -1,0 +1,2 @@
+interval=5
+url=https://raw.githubusercontent.com/ignaciocastro/a-dove-is-dumb/main/127.txt
