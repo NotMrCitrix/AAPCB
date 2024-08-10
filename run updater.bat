@@ -1,1 +1,1 @@
-powershell.exe -WindowStyle Hidden -File "C:\Users\citrix\Documents\hosts\UpdateHosts.ps1"
+powershell.exe -WindowStyle Hidden -File "Path to your .ps1 file"
