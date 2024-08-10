@@ -1,5 +1,5 @@
 $hostsPath = "C:\Windows\System32\drivers\etc\hosts"
-$configPath = "enter yoyur config.txt location"
+$configPath = "C:\Program Files\AAPCB\config.txt"
 
 # Read the config file
 $config = Get-Content -Path $configPath | ConvertFrom-StringData
