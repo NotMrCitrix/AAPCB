@@ -1,1 +1,1 @@
-powershell.exe -WindowStyle Hidden -File "Path to your .ps1 file"
+powershell.exe -WindowStyle Hidden -File "C:\Program Files\AAPCB\UpdateHosts.ps1"
